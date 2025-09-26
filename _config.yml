@@ -23,12 +23,12 @@ repository               : "jmil-git/JessicaLMiller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JessicaLMiller.io/images/Jess_Miller.png"
+  avatar           : "Jess_Miller.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "The University of Queensland/
+  employer         : "The University of Queensland <br />
                       QIMR Berghofer"
   uri              : # URL
   email            : "none@example.org" 
