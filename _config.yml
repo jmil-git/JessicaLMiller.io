@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "The University of Queensland/QIMR Berghofer"
+  employer         : "The University of Queensland/
+                      QIMR Berghofer"
   uri              : # URL
   email            : "none@example.org" 
 
